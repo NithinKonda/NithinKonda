@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust,Go and PyTorch**
 
-- 👨‍💻 All of my projects are available at [nithinkonda.vercel.app](nithinkonda.vercel.app)
+- 👨‍💻 All of my projects are available at [github.com/NithinKonda](github.com/NithinKonda)
 
 - 📫 How to reach me **nithinkonda142@gmail.com**
 
