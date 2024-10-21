@@ -3,13 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinkonda" alt="nithinkonda" /></a> </p>
 
-- 🌱 I’m currently learning **Rust,Go and PyTorch**
+- 🌱 I’m currently learning **Rust, Go and PyTorch**
 
 - 📫 How to reach me **nithinkonda142@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/nithin_konda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithin_konda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
