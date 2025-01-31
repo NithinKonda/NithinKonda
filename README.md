@@ -1,4 +1,4 @@
-<h1 align="center">Hi,  I'm Nithin Konda</h1>
+<h1 align="center">Hi,  I'm Nithin</h1>
 <h3 align="center">I'm a skilled software developer with experience in JavaScript and expertise in frameworks like Next.js, React, and Node.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinkonda" alt="nithinkonda" /></a> </p>
