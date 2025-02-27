@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithinkonda&show_icons=true&locale=en" alt="nithinkonda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkonda&" alt="nithinkonda" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=nithinkonda" alt="nithinkonda" /></p>
