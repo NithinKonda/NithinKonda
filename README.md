@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinkonda" alt="nithinkonda" /></a> </p>
 
--  I’m currently learning **Rust, Go and PyTorch**
 
 -  How to reach me **nithinkonda142@gmail.com**
 
